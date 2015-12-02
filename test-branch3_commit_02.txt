@@ -1,0 +1,24 @@
+﻿  
+    GitHub其實就是一個網站，他將Git好好包裝了一下，讓Git變的十分的實用與方便，許多人甚至從SVN跳槽使用Git，為什麼呢?因為GitHub實在太好用了!!GitHub擁有友善的介面、實用的client端軟體。
+    GitHub提供空間讓你擁有一個雲端的Repository，讓你可以放上你的專案。專案的種類分為公開與個人兩種，公開的專案會使得大家都可以將你的code拿走，個人的話就只有你可以看到但是需要付錢就是了。那將專案放在上面有什麼優缺點呢?
+優點:
+    1. 專案可以有多個作者共同實做
+    2. 專案在GitHub不怕自己電腦掛掉資料不見
+    3. 當別人下載你的專案後，可以修改完bug後，請求你將他的程式碼加入你的專案中，讓你的專案越來越少bug。
+    4. 應徵時，老闆光看你在GitHub的活躍度，就可以知道要不要錄用你了，因為GitHub越活躍通常代表對coding很有熱誠。
+    5. 建立主題，讓你在新增功能或修訂bug時，可以清楚知道改了哪幾個檔案，動了哪裡的code。
+    6. 良善的討論(留言)介面
+    7. 提供client端軟體，讓你用GUI的軟體輕輕鬆鬆上傳與同步你的專案
+
+缺點:
+    私人的空間需要花錢
+
+
+測試資料:http://techaride.blogspot.tw/2013/08/github-github_16.html
+
+詳細介紹：http://chocochocoduck.tumblr.com/post/78188014870/github%E4%BB%8B%E9%9D%A2%E6%93%8D%E4%BD%9Cfor-windows
+線上學習：http://blog.longwin.com.tw/2013/01/git-github-code-school-2013/
+簡單UI操作範例：http://chocochocoduck.tumblr.com/post/78188014870/github%E4%BB%8B%E9%9D%A2%E6%93%8D%E4%BD%9Cfor-windows
+簡單WEB操作範例：http://blog.kevinlinul.idv.tw/?p=369
+
+系統管理員大全：http://buzzorange.com/techorange/2015/05/07/data/
