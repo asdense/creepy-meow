@@ -16,4 +16,9 @@
 
 測試資料:http://techaride.blogspot.tw/2013/08/github-github_16.html
 
-test
+詳細介紹：http://chocochocoduck.tumblr.com/post/78188014870/github%E4%BB%8B%E9%9D%A2%E6%93%8D%E4%BD%9Cfor-windows
+線上學習：http://blog.longwin.com.tw/2013/01/git-github-code-school-2013/
+簡單UI操作範例：http://chocochocoduck.tumblr.com/post/78188014870/github%E4%BB%8B%E9%9D%A2%E6%93%8D%E4%BD%9Cfor-windows
+簡單WEB操作範例：http://blog.kevinlinul.idv.tw/?p=369
+
+系統管理員大全：http://buzzorange.com/techorange/2015/05/07/data/
